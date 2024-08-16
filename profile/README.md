@@ -1,4 +1,4 @@
-```lua
+```
 resources
 └── Store
    │   ├─ (McKleans-Scripts)[mckleans-scripts.tebex.io]
