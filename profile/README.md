@@ -1,3 +1,4 @@
+```lua
 resources
 └── Store
    │   ├─ (McKleans-Scripts)[mckleans-scripts.tebex.io]
@@ -18,3 +19,4 @@ resources
    │   
    │   
    └─ Powered by J.McKlean
+```
