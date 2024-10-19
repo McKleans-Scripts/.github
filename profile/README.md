@@ -12,14 +12,39 @@ resources
    │   └─ (IDART)[https://discord.gg/UEqvHUHZ24]
    │   
    ├─ Dev @
-   │   └─ (FreeStyle RP)[https://discord.gg/freestylerp]
+   │   ├─ (FreeStyle RP)[https://discord.gg/freestylerp]
+   │   └─ (Pinnacle RP)[https://discord.gg/d9RJVwm7kQ]
    │   
    ├─ Experience
    │   ├─ Mapping/Script Dev of FreeStyle RP  [ONGOING]
-   │   ├─ Part-Time Dev of Pinnacle RP
+   │   ├─ Part-Time Dev of Pinnacle RP  [ONGOING]
    │   ├─ Lead Dev of VoxCity RP
    │   └─ Script Dev of 8Bit RP
    │   
    │   
    └─ Powered by J.McKlean
 ```
+##  Links: 
+
+ Discord: [McKleans-Scripts](https://discord.gg/DEWp9TP7p6)  |  Tebex: [McKleans-Scripts](https://mckleans-scripts.tebex.io/)  | Donations: [Help Support us make more scripts](https://ko-fi.com/mckleansscripts)
+
+## GitHub Stats
+<p align="left">
+  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=mcklean&theme=radical&show_icons=true&hide_border=true"/>
+</a>
+</p>
+
+## Languages
+
+
+<div align="center">
+  
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+
+</div>
+
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=McKleans-Scripts&label=PROFILE+VIEWS)
+ 
+</div>
