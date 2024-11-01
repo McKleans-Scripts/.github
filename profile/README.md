@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1LMXYK)
 ```
 resources
 └── Store
@@ -26,7 +27,7 @@ resources
 ```
 ##  Links: 
 
- Discord: [McKleans-Scripts](https://discord.gg/DEWp9TP7p6)  |  Tebex: [McKleans-Scripts](https://mckleans-scripts.tebex.io/)  | Donations: [Help Support us make more scripts](https://ko-fi.com/mckleansscripts)
+ Discord: [McKleans-Scripts](https://discord.gg/DEWp9TP7p6)  |  Tebex: [McKleans-Scripts](https://mckleans-scripts.tebex.io/)  | Donations: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1LMXYK)
 
 ## GitHub Stats
 <p align="left">
